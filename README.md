@@ -8,6 +8,7 @@ KVG Finance Research Assistant is an AI-powered agent that leverages the Llama 3
 
 ## Demo
 ---
+
 <video controls src="https://github.com/venugopalkadamba/finance_research_agent/blob/main/assets/application_demo.mp4" title="Title"></video>
 
 ## Steps to run the project
