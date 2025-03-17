@@ -1,5 +1,5 @@
 <h1>KVG Finance Research Assistant</h1>
-[Python Version](https://img.shields.io/badge/python-3.10.12-blue)
+![Python Version](https://img.shields.io/badge/python-3.10.12-blue)
 
 ## About
 ---
